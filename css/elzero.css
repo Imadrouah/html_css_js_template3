@@ -410,6 +410,9 @@ a {
     .header .holder a:last-of-type:active{
         color: var(--main-color);
     }
+    .header .holder a:last-of-type:visited{
+        color: var(--main-color);
+    }
     .header .container {
         flex-direction: column;
     }
