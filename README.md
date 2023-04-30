@@ -12,16 +12,16 @@ special thanks to the engineer Osama Elzero
 
 Osama's profiles:
 
-https://web.facebook.com/OsElzero
-https://youtube.com/@ElzeroWebSchool
-https://elzero.org/
-https://github.com/OsamaElzero
+https://web.facebook.com/OsElzero<br />
+https://youtube.com/@ElzeroWebSchool<br />
+https://elzero.org/<br />
+https://github.com/OsamaElzero<br />
 
 tutorials :
 
-Html => https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji
-Css => https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIK
-JavaScript => https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
+Html => https://youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji<br />
+Css => https://youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIK<br />
+JavaScript => https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv<br />
 
 ## License
 
