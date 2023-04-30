@@ -413,6 +413,12 @@ a {
     .header .holder a:last-of-type:visited {
         color: var(--main-color);
     }
+    .header .holder a:last-of-type i:active {
+        color: var(--main-color);
+    }
+    .header .holder a:last-of-type i:visited {
+        color: var(--main-color);
+    }
     .header .container {
         flex-direction: column;
     }
@@ -428,7 +434,8 @@ a {
         flex-basis: 20%;
     }
     .header .holder a:last-of-type {
-        flex-basis: 10%;
+        position: relative;
+        left: -40px;
         font-size: 24px;
     }
     .header .main-nav {
@@ -1421,7 +1428,7 @@ a {
         flex-direction: column;
     }
 }
-@media (min-width: 360 px) {
+@media (min-width: 360px) {
     .videos .container .holder .list {
         min-width: 300px;
         background-color: white;
