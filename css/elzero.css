@@ -1574,8 +1574,6 @@ a {
 .stats .container .box .code {
     color: gray;
 }
-.stats .container .box .globe {
-}
 .stats .container .box .money {
     color: green;
 }
@@ -1768,13 +1766,6 @@ a {
     .footer .container .box {
         width: 90%;
     }
-    .footer .box .links {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .footer .box .links li{
-        margin: 0 5px;
-    }
 }
 .footer .container .box h3 {
     color: white;
@@ -1811,9 +1802,16 @@ a {
     line-height: 2;
     color: #b9b9b9;
 }
+.footer .box .links {
+    display: flex;
+    flex-wrap: wrap;
+}
 .footer .container .box .links li {
     padding: 15px 0;
     transition: var(--main-transition);
+    margin: 0 10px;
+    width: 100%;
+    text-align: left;
 }
 .footer .container .box .links li:not(li:last-of-type) {
     border-bottom: 1px solid #444;
